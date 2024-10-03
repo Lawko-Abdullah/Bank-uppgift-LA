@@ -1,0 +1,14 @@
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\SimpleBankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\SimpleBankSystem.AssemblyInfoInputs.cache
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\SimpleBankSystem.AssemblyInfo.cs
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\SimpleBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\lawko\source\repos\SimpleBankSystem\bin\Debug\net8.0\SimpleBankSystem.exe
+C:\Users\lawko\source\repos\SimpleBankSystem\bin\Debug\net8.0\SimpleBankSystem.deps.json
+C:\Users\lawko\source\repos\SimpleBankSystem\bin\Debug\net8.0\SimpleBankSystem.runtimeconfig.json
+C:\Users\lawko\source\repos\SimpleBankSystem\bin\Debug\net8.0\SimpleBankSystem.dll
+C:\Users\lawko\source\repos\SimpleBankSystem\bin\Debug\net8.0\SimpleBankSystem.pdb
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\SimpleBankSystem.dll
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\refint\SimpleBankSystem.dll
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\SimpleBankSystem.pdb
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\SimpleBankSystem.genruntimeconfig.cache
+C:\Users\lawko\source\repos\SimpleBankSystem\obj\Debug\net8.0\ref\SimpleBankSystem.dll
